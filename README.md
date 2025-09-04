@@ -28,11 +28,7 @@
 
 ### 🚀 Projects
 
-* [💼 Portfolio](https://github.com/YOUR_USERNAME/portfolio) — my personal portfolio.
-* [📊 Accounting Tracker](https://github.com/YOUR_USERNAME/accounting-tracker) — simple finance/ledger tool.
-* [📚 School Tools](https://github.com/YOUR_USERNAME/school-tools) — small scripts for study help.
 
----
 
 ### 📈 GitHub Stats
 
