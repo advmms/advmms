@@ -1,54 +1,43 @@
-Got it 👍 Here’s a clean **English version** of your short README draft for GitHub profile:
+# Adam Hechka 👋
+
+> 🎓 16-year-old student (Accounting stream) • 🌐 Full-Stack Developer in progress • 🚀 Always learning
 
 ---
 
-# Adam Hichka 👋
+### 👨‍💻 About Me
 
-> 16-year-old high school student (Accounting stream) • Self-taught web developer • Learning Node.js & React
-
-[![GitHub](https://img.shields.io/badge/-GitHub-000?\&logo=github)](https://github.com/YOUR_USERNAME)
+* High school student (Accounting stream).
+* Passionate about **Full Stack Development**.
+* Skilled in **HTML, CSS, JavaScript, TypeScript, React, Node.js**.
+* Currently learning **Python** & **Java**.
 
 ---
 
-### Languages & Tools
+### ⚡ Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?\&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?\&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?\&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-000?\&logo=Python)
 ![React](https://img.shields.io/badge/-React-000?\&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?\&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-000?\&logo=git)
+![Node.js](https://img.shields.io/badge/-Node.js-000?\&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-000?\&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?\&logo=Java)
 
 ---
 
-### About Me
+### 🚀 Projects
 
-I’m Adam, 16 years old and currently in high school (accounting stream).
-I’m passionate about programming and currently learning **HTML, CSS, JavaScript, TypeScript, React, Node.js, and Python**.
-I enjoy building small projects to improve my skills.
-
----
-
-### Projects
-
-* [💼 Portfolio](https://github.com/YOUR_USERNAME/portfolio) — my personal site to showcase projects.
-* [🧾 Accounting-Tracker](https://github.com/YOUR_USERNAME/accounting-tracker) — simple ledger/expense tracker.
-* [📚 School Tools](https://github.com/YOUR_USERNAME/school-tools) — small Python/JS scripts for study tasks.
-
-*(replace with your real repos & links)*
+* [💼 Portfolio](https://github.com/YOUR_USERNAME/portfolio) — my personal portfolio.
+* [📊 Accounting Tracker](https://github.com/YOUR_USERNAME/accounting-tracker) — simple finance/ledger tool.
+* [📚 School Tools](https://github.com/YOUR_USERNAME/school-tools) — small scripts for study help.
 
 ---
 
-### GitHub Stats
+### 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true" height="150" />  
-
----
-
-🔥 Minimal, clean, and ready to use.
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=radical" height="150" />  
 
 ---
 
-Do you want me to **keep it this short** or do you prefer a bit more *detailed style* (like adding a goals/learning section and future plans)?
+✨ *Focused on learning, building, and growing every day!*
