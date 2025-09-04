@@ -28,7 +28,7 @@
 - 🎯 Goal: master **HTML, CSS, JavaScript, TypeScript, React, Node.js**
 - 🧩 I like clean UI, simple code, and useful README files
 
-> *Darija:* Ana Adam, 3endi 16 3am, mazal tan9ra. Kan-ta3llam **HTML, CSS, JS, TypeScript, React, Node.js** w kayna Python zada. Ila 3endek chi idea dyal projet, n9dro nkhddmo 3liha m3a b3d 😉
+> *Darija:* Ana Adam, 3endi 16 3am, mazal tan9ra. m3llam **HTML, CSS, JS, TypeScript, React, Node.js** w kayna Python zada. Ila 3endek chi idea dyal projet, n9dro nkhddmo 3liha m3a b3d 😉
 
 ---
 
