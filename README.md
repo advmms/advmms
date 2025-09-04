@@ -1,72 +1,54 @@
-[![](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/master/profile.gif)](https://github.com/YOUR_GITHUB_USERNAME)
-
-# Adam Hichka
-
-**16 y/o — High school student & self-taught web/dev learner**
-
-Salam! Ana Adam — kanqra f high school w kan-t3allam HTML, CSS, JavaScript, TypeScript, React, Node.js, w Python. Hada README sghir w mrafq li GitHub profile dyali.
+Got it 👍 Here’s a clean **English version** of your short README draft for GitHub profile:
 
 ---
 
-### 🔧 Skills / Maharat
+# Adam Hichka 👋
 
-![HTML](https://img.shields.io/badge/-HTML-000?\&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-000?\&logo=CSS3) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?\&logo=TypeScript)
+> 16-year-old high school student (Accounting stream) • Self-taught web developer • Learning Node.js & React
 
-![React](https://img.shields.io/badge/-React-000?\&logo=React) ![Node.js](https://img.shields.io/badge/-Node.js-000?\&logo=node.js) ![Python](https://img.shields.io/badge/-Python-000?\&logo=Python)
-
----
-
-### 🚀 Projects (short)
-
-* **Personal Website** — portfolio simple b React + Vite. (link: `github.com/YOUR_GITHUB_USERNAME/portfolio`)
-* **Mini e‑shop (front)** — HTML/CSS/JS project: product list + cart (link placeholder)
-* **Notes API** — Node.js + Express + lowdb (simple CRUD API) (link placeholder)
-
-*(Replace links above b links dyal projektek.)*
+[![GitHub](https://img.shields.io/badge/-GitHub-000?\&logo=github)](https://github.com/YOUR_USERNAME)
 
 ---
 
-### 🎯 Values — Qlil w Mofid
+### Languages & Tools
 
-* **Learning**: daba kan-t3allam kol nhar w kanbni 7wayej bash nt3allam.
-* **Simplicity**: code li yefhamu b7al nass.
-* **Share & Collab**: n7eb n3awn w n3awd m3a developers o students.
-
----
-
-### ▶ How to run a project (example)
-
-**Node.js / Express**
-
-```
-git clone https://github.com/YOUR_GITHUB_USERNAME/your-repo.git
-cd your-repo
-npm install
-npm start
-```
-
-**React (Vite / Create React App)**
-
-```
-npm install
-npm run dev
-```
-
-**Python (simple script)**
-
-```
-python3 script.py
-```
+![HTML5](https://img.shields.io/badge/-HTML5-000?\&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?\&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?\&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?\&logo=Python)
+![React](https://img.shields.io/badge/-React-000?\&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?\&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-000?\&logo=git)
 
 ---
 
-### ✉ Contact
+### About Me
 
-* GitHub: `https://github.com/YOUR_GITHUB_USERNAME`
-* Email: `youremail@example.com`
+I’m Adam, 16 years old and currently in high school (accounting stream).
+I’m passionate about programming and currently learning **HTML, CSS, JavaScript, TypeScript, React, Node.js, and Python**.
+I enjoy building small projects to improve my skills.
 
 ---
 
-If bghiti README b l3arabi kaml, ola bghiti ndir version mzayda (badges, stats images, gif), goli w ana nbadlha.
+### Projects
 
-*Short, clean, and ready to paste to your GitHub profile.*
+* [💼 Portfolio](https://github.com/YOUR_USERNAME/portfolio) — my personal site to showcase projects.
+* [🧾 Accounting-Tracker](https://github.com/YOUR_USERNAME/accounting-tracker) — simple ledger/expense tracker.
+* [📚 School Tools](https://github.com/YOUR_USERNAME/school-tools) — small Python/JS scripts for study tasks.
+
+*(replace with your real repos & links)*
+
+---
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true" height="150" />  
+
+---
+
+🔥 Minimal, clean, and ready to use.
+
+---
+
+Do you want me to **keep it this short** or do you prefer a bit more *detailed style* (like adding a goals/learning section and future plans)?
