@@ -1,52 +1,61 @@
-# Adam Hechka 👋
+# 👋 Adam Hechka
 
-> 🎓 16-year-old student (Accounting stream) • 🌐 Full-Stack Developer in progress • 🚀 Always learning
-
----
-
-### 👨‍💻 About Me
-
-* High school student (Accounting stream).
-* Passionate about **Full Stack Development**.
-* Skilled in **Frontend & Backend technologies**.
-* Currently learning **Python** & **Java**.
+> 🎓 16-year-old student (Accounting stream) • 📊 Data Analyst in progress • 🚀 Always learning
 
 ---
 
-### ⚡ Skills & Tools
+## 👨‍💻 About Me
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/-HTML5-000?\&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?\&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?\&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-000?\&logo=React)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-000?\&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?\&logo=Express)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/-MySQL-000?\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?\&logo=mongodb)
-
-**Tools**
-![Git](https://img.shields.io/badge/-Git-000?\&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?\&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?\&logo=visual-studio-code)
+- 🎓 High school student (Accounting stream)
+- 📊 Passionate about **Data Analysis & Data Science**
+- 💡 Interested in turning data into useful insights
+- 🌐 Basic knowledge in **Frontend Development**
+- 📚 Currently learning **Python & SQL**
 
 ---
 
-### 🚀 Projects
+## 📊 Data Analysis Skills
 
+- 🐍 Python (Pandas, NumPy - beginner)
+- 🗄️ SQL (data querying & management)
+- 📈 Data visualization (learning: Matplotlib / Power BI)
+- 📊 Data cleaning & basic analysis
 
-### 📩 Contact
+---
 
-* GitHub: [@YOUR\_USERNAME](https://github.com/advmms)
-* Email: [your.email@example.com](adamhichka@gmail.com)
+## 🌐 Frontend Skills (Bonus)
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+</p>
 
 ---
 
-✨ *Focused on learning, building, and growing every day!*
+## 🛠️ Tools
+
+<p>
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual-studio-code" />
+</p>
 
 ---
+
+## 🚀 Projects
+
+> 🔨 Coming soon... (Data analysis projects in progress 👀)
+
+---
+
+## 📩 Contact
+
+- GitHub: [@advmms](https://github.com/advmms)
+- Email: **adamhichka@gmail.com**
+
+---
+
+✨ *Focused on data, insights, and continuous growth.*
