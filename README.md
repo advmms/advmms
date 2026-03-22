@@ -1,43 +1,61 @@
-# 👋 Adam Hechka
+<h1 align="center">👋 Hi, I'm Adam Hechka</h1>
+<h3 align="center">📊 Future Data Analyst | 🎓 Accounting Student | 🚀 Data-Driven Mindset</h3>
 
-> 🎓 16-year-old student (Accounting stream) • 📊 Data Analyst in progress • 🚀 Always learning
+<p align="center">
+Turning data into insights, and insights into decisions 📈
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 High school student (Accounting stream)
+- 🎓 17-year-old student (Accounting stream)
 - 📊 Passionate about **Data Analysis & Data Science**
-- 💡 Interested in turning data into useful insights
-- 🌐 Basic knowledge in **Frontend Development**
-- 📚 Currently learning **Python & SQL**
+- 🧠 Love working with data, numbers & patterns
+- 📈 Interested in **Business Intelligence & Analytics**
+- 🌐 Background in **Frontend Development**
+- 🎯 Goal: Become a professional **Data Analyst**
 
 ---
 
-## 📊 Data Analysis Skills
+## 📊 Data Analysis Stack
 
-- 🐍 Python (Pandas, NumPy - beginner)
-- 🗄️ SQL (data querying & management)
-- 📈 Data visualization (learning: Matplotlib / Power BI)
-- 📊 Data cleaning & basic analysis
+### 🐍 Programming
+<p>
+<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql" />
+</p>
 
----
+### 📈 Data Analysis & Visualization
+<p>
+<img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=plotly" />
+<img src="https://img.shields.io/badge/Seaborn-000?style=for-the-badge&logo=python" />
+</p>
 
-## 🌐 Frontend Skills (Bonus)
+### 📊 BI & Analytics Tools
+<p>
+<img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel" />
+<img src="https://img.shields.io/badge/Power_BI-000?style=for-the-badge&logo=powerbi" />
+<img src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=tableau" />
+</p>
 
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+</p>
+
+### 🌐 Frontend (Bonus)
 <p>
 <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
 <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
 </p>
 
----
-
-## 🛠️ Tools
-
+### 🛠️ Tools
 <p>
-<img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
 <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visual-studio-code" />
@@ -47,15 +65,26 @@
 
 ## 🚀 Projects
 
-> 🔨 Coming soon... (Data analysis projects in progress 👀)
+> 🔥 More coming soon...
 
 ---
 
-## 📩 Contact
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=advmms&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=advmms&theme=tokyonight" />
+</p>
+
+---
+
+## 📩 Contact Me
 
 - GitHub: [@advmms](https://github.com/advmms)
 - Email: **adamhichka@gmail.com**
 
 ---
 
-✨ *Focused on data, insights, and continuous growth.*
+<p align="center">
+✨ <b>Data is the new oil, and I'm learning how to refine it.</b>
+</p>
